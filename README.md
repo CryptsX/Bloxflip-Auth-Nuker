@@ -1,9 +1,8 @@
 # IllusionGcSpammer
-A working bypass for discord gc spamming
+A tool for BloxFlip (https://bloxflip.com)
 
-# Installation
-Run pip install ```pip install DiscordGcSpammer``` then your good to go.
-
-# Usage
-You can put multiple tokens inside the tokens.txt file. 
-I wouldn't recommend putting your own token as you'll get banned from the api
+# Installation and Usage
+1. Simply download the files from this repo
+2. Run install.bat to insatll the modules
+3. Run the python file.
+4. If you get any errors run the file from cmd and send them to my discord: Josh#6382 
