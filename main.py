@@ -82,7 +82,7 @@ class main:
 		except:
 			uiprint("data.json file is missing. Make sure you downloaded all the files and they're all in the same folder", "error")
 
-		with open("data.json", "r+") as data:
+		with open("config.json", "r+") as data:
 
 			config = json.load(data)
 			try:
