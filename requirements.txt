@@ -1,4 +1,4 @@
 termcolor >= 1.1.0
 selenium >= 4.1.3
 requests >= 2.27.1
-PyWebSockets >= 2.1.9
+PyWebSockets >= 2.2.1
